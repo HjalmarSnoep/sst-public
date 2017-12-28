@@ -4,8 +4,8 @@ Smart Social Tool (SST!) is een online tool, waarmee je tegelijk meerdere social
 Voorlopig gebruiken we de Wiki Pagina's ingebouwd in github, dit maakt het voor het publiek nog niet zo heel toegankelijk.
 
 Eerste pagina's zijn:
- * [Core Features](https://github.com/HjalmarSnoep/sst-public/edit/master/README.md) 
- * [Roadmap](https://github.com/HjalmarSnoep/sst-public/edit/master/README.md) 
+ * [Core Features](https://github.com/HjalmarSnoep/sst-public/wiki/Core) 
+ * [Roadmap](https://github.com/HjalmarSnoep/sst-public/wiki/Roadmap) 
 
 ## Bijdragen
 
